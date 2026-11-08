@@ -27,7 +27,7 @@ I am a software engineer with over 5 years of experience building enterprise app
 Played a key role in the development of an enterprise data warehouse that supports large-scale data processing and organizational reporting.
 
 #### Key contributions:
-- Designed and implemented ETL pipelines using Azure Synapse Analytics.
+- Designed and implemented ETL pipelines processing over 10 million records weekly using Azure Synapse Analytics.
 - Developed data transformation processes to populate fact and dimension tables.
 - Implemented data validation procedures to maintain consistency between source and destination systems.
 - Provided support and maintenance of the data pipelines that processed over 10 million records weekly.
@@ -51,7 +51,19 @@ Master of Science in Computer Science and Artificial Intelligence — In Progres
 ### Makerere University
 Bachelor of Science in Computer Engineering
 
+## 📚 Current Learning Interests
+I am interested in:
+- Machine learning algorithms and their mathematical foundations.
+- Building scalable data pipelines for machine learning applications.
+- Model training, evaluation, and deployment.
+- Software engineering and infrastructure for production AI systems.
+
+As I progress through my master's program, I intend to share selected academic projects, experiments, and implementations that will highlight my technical development.
+
 ## 🎯 Professional Goals
 My goal is to transition into a Machine Learning Engineering role where I can use my background in software development and enterprise data systems to develop and deploy scalable AI solutions.
 
 I am especially interested in opportunities that bring together software engineering, data engineering, and machine learning.
+
+##📄 Resume & Connect
+- Resume: View my Resume
