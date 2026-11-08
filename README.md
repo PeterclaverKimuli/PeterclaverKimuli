@@ -66,4 +66,4 @@ My goal is to transition into a Machine Learning Engineering role where I can us
 I am especially interested in opportunities that bring together software engineering, data engineering, and machine learning.
 
 ##📄 Resume & Connect
-- Resume: View my Resume
+- Resume: [View my Resume](./Peterclaver Kimuli Resume.pdf)
