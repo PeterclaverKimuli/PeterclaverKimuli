@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - Software engineer with over five years of professional experience.
-- Full-stack development, database design, cloud technologies, and enterprise data warehousing.
+- Expertise in full-stack development, database design, cloud technologies, and enterprise data warehousing.
 - Currently pursuing a Master of Science in Computer Science and Artificial Intelligence at Boston University.
 - Exploring AI, machine learning, algorithms, and computer systems.
 
