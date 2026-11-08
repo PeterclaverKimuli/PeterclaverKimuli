@@ -5,7 +5,6 @@
 - Full-stack development, database design, cloud technologies, and enterprise data warehousing.
 - Currently pursuing a Master of Science in Computer Science and Artificial Intelligence at Boston University.
 - Exploring AI, machine learning, algorithms, and computer systems.
-I am a software engineer with over 5 years of experience building enterprise applications and data systems.
 
 ## 🛠️ Technical Skills
 ### Programming Languages
